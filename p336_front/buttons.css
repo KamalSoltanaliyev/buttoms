@@ -1,0 +1,30 @@
+button 
+{
+    background-color:greenyellow;
+    color: white;
+}
+
+
+
+button 
+{
+    border:none;
+    color: black
+}
+
+button:hover 
+{
+   background-color:  red;
+}
+
+button:disabled
+{
+     color: lightgreen;
+}
+
+
+button:active
+{
+     background-color: darkgreen;
+}
+
